@@ -1,0 +1,15 @@
+student,student,true,Student,student,false,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+fact,fact,true,Faculty Member,fact,true,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+mteam,mteam,true,Student,mteam,false,
+m,m,true,Management Team,m,false,
+uthith,uthith,true,Faculty Member,uthith,true,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+mm,mm,true,Management Team,mm,false,
+uthithmenon@hotmail.com,uthithmenon@hotmail.com,true,Student,uthithmenon@hotmail.com,false,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+mmm,mmm,true,Management Team,mmm,false,
+uthithmenon@gmail,uthith,true,Student,uthith,false,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+uthithmenon@yahoo.com,uthithmenon@yahoo.com,true,Student,uthithmenon,false,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+faculty@gmail.com,faculty@gmail.com,true,Faculty Member,faculty,true,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+t,t,true,Student,t,false,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+q,q,true,Management Team,q,false,
+f,f,true,Faculty Member,f,false,EECS 2020;EECS 3311;EECS 4411;EECS 4413
+y,y,false,Student,y,false,EECS 2020;EECS 3311;EECS 4411;EECS 4413
